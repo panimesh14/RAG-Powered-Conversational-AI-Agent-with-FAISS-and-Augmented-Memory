@@ -1,0 +1,2 @@
+# RAG-Powered-Conversational-AI-Agent-with-FAISS-and-Augmented-Memory
+This AI agent uses Retrieval-Augmented Generation (RAG) to power contextual conversations over PDFs and other unstructured documents. It combines FAISS for fast vector-based retrieval with an open-source LLM like Mistral 7B. Augmented memory enables it to retain and reference past interactions, supporting coherent multi-turn dialogue. 
